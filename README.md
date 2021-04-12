@@ -1,6 +1,4 @@
 # Music-app
-Horizon-WebDev project
-# Music-app
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71590944/111881788-33353b80-89d8-11eb-9db1-746eba087b05.png" > <br> 
  <img src="https://user-images.githubusercontent.com/71590944/114435724-1e685400-9be2-11eb-9751-4c43096007a7.jpeg"> <br>
