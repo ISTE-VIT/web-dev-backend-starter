@@ -7,8 +7,8 @@
 # WebDev
 >Repository for the backend resources of WebDev workshop <br>
 <b>A one day workshop on WebDev under Horizon'21<br><br>
->This repository contain the pre-written code files to help the begineers to get a hold on the world of WebDev
->The song JSON data is in file <a href="https://github.com/Tirth22/web-dev-backend-starter/blob/starter/Song%20data.md">Song data.md</a>
+This repository contain the pre-written code files to help the begineers to get a hold on the world of WebDev<br>
+The song JSON data is in file <a href="https://github.com/Tirth22/web-dev-backend-starter/blob/starter/Song%20data.md">Song data.md</a>
 
  ## Relevant repository link
  - <a href="https://github.com/ISTE-VIT/web-dev-react-app" target="_blank">WebDev React App</a>
